@@ -5,5 +5,3 @@
 <Files ~ "^index\.php|css|js|.*\.png|.*\.jpg|.*\.gif">
   Allow from all
 </Files>
-Share
-Improve this
